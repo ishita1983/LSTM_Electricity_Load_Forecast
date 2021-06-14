@@ -13,4 +13,4 @@ Explore the available data with plots and charts.
 
 The map below shows the different weather zones in Texas. We will use this to track the cities related to the weather zones and pull out the zonal weather history and weather prediction.
 
-![Weather Zone Maps](ercotWeatherZoneMap.png)
+![Weather Zone Maps](https://raw.githubusercontent.com/ishita1983/LSTM_Electricity_Load_Forecast/main/ercotWeatherZoneMap.png)
